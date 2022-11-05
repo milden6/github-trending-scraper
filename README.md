@@ -4,7 +4,7 @@ Simple CLI tool which can return top N repositories from [Github trending page](
 
 ## How to use
 Just run `./gts` command from terminal. <br>
-Tools has 3 flags: <br>
+Tool has 3 flags: <br>
 1. `top_n` - Top n repositories to show. `by default 5`
 2. `lang` - Programming language to show. `by default Go =)`
 3. `since` - Date range. Can be `daily`, `weekly`, `monthly`. `by default weekly`
