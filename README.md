@@ -10,3 +10,4 @@ Tools has 3 flags: <br>
 3. `since` - Date range. Can be `daily`, `weekly`, `monthly`. `by default weekly`
 
 ## Here example
+![how_to](how_to.gif "how_to")
